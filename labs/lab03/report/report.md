@@ -87,6 +87,10 @@ header-includes:
 2.Изучаем структуру и заполняем отчет
 
 ![Рис.2](image/work2.png){#fig:002 width=70%}
+3.Загружаем файлы на github
+
+![Рис.3](image/work3.png){#fig:003 width=70%}
+
 
 # Выводы
 
